@@ -1,7 +1,6 @@
 # import dependencies
 import numpy as np
 import pandas as pd
-import tensorflow as tf
 from sklearn import preprocessing
 from sklearn.svm import SVR
 
